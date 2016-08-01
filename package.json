@@ -22,7 +22,7 @@
     "url": "https://github.com/betaorbust/babel-preset-minify-es2015/issues"
   },
   "homepage": "https://github.com/betaorbust/babel-preset-minify-es2015#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-plugin-groundskeeper-willie": "^1.2.1",
     "babel-plugin-transform-mangle": "^0.1.7",
     "babel-plugin-transform-member-expression-literals": "^6.8.0",
