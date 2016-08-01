@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-minify-es2015",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A set of babel plugins for minification of ES2015 code without transpilation to ES5",
   "main": "index.js",
   "scripts": {
